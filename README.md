@@ -27,7 +27,14 @@
 
 #### 연구수업 지도안 PDF 🗂️
 
+<img width="300px" src= "https://github.com/osohyun0224/Uijeongbu_MinRakMiddleSchool_Teaching/assets/53892427/58cdb909-aab4-4cfc-aba9-3b30036efc13" />
+<br/>
+https://drive.google.com/file/d/1TL8nQN2oG7jhHzW-m7KOdqtCDFWLrroK/view?usp=drive_link
+
 #### 연구수업 PPT 🎞️
+<img width="600px" src="https://github.com/osohyun0224/Uijeongbu_MinRakMiddleSchool_Teaching/assets/53892427/87e7be38-67af-4445-9319-d5f6fe5382d3" />
+<br/>
+https://drive.google.com/file/d/1TL4qQEoQ9Q2XwG9f_otkz_TuzRU0sFWz/view?usp=drive_link
 
 #### 연구수업 진행 사진 📷
 <img width="400px" src="https://github.com/osohyun0224/Uijeongbu_MinRakMiddleSchool_Teaching/assets/53892427/a369c51e-584a-47d0-960f-82dd15a93a9f" />
