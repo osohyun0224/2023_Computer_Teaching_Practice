@@ -13,7 +13,7 @@
 ## Training School 🏫
 |                                   경기 의정부시  민락중학교 (공립)                                 |                   강원 춘천시 한샘고등학교 (공립)                                 |
 | :------------------------------------------------------------------------------: | :------------------------------------------------------------------------------: |
-| <img width="160px" src="https://obj-sg.the1.wiki/data/6d696e72616b5f6d5f6c6f676f2e6a7067.jpg" /> | <img width="160px" src="https://i.namu.wiki/i/FiEoJyqT0OyG2KUcMIORl7Nvqn_G7RucEXUXeVA5FXFYJxWLKmX5DlrCABKhk4O9OoqcqdC6k0a0HY0-UFFfTg.webp" /> |
+| <img width="160px" src="https://github.com/osohyun0224/Uijeongbu_MinRakMiddleSchool_Teaching/assets/53892427/3fba010e-6c42-4881-a1eb-021ddc610874" /> | <img width="160px" src="https://i.namu.wiki/i/FiEoJyqT0OyG2KUcMIORl7Nvqn_G7RucEXUXeVA5FXFYJxWLKmX5DlrCABKhk4O9OoqcqdC6k0a0HY0-UFFfTg.webp" /> |
 |                  2023.05.01 ~ 2023. 05. 12               |                  2023.05.15 ~ 2023.05.26                  |
 |                          실습 전공 교과목 : 중학교 정보                      |                          실습 전공 교과목 : 고등학교 프로그래밍                       |
 
