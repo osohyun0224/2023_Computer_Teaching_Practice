@@ -15,6 +15,7 @@
 | :------------------------------------------------------------------------------: | :------------------------------------------------------------------------------: |
 | <img width="160px" src="https://github.com/osohyun0224/Uijeongbu_MinRakMiddleSchool_Teaching/assets/53892427/3fba010e-6c42-4881-a1eb-021ddc610874" /> | <img width="160px" src="https://i.namu.wiki/i/FiEoJyqT0OyG2KUcMIORl7Nvqn_G7RucEXUXeVA5FXFYJxWLKmX5DlrCABKhk4O9OoqcqdC6k0a0HY0-UFFfTg.webp" /> |
 |                  2023.05.01 ~ 2023. 05. 12               |                  2023.05.15 ~ 2023.05.26                  |
+| [민락중학교 공식 웹사이트](https://minrak-m.goeujb.kr/minrak-m/main.do)|   [한샘고등학교 공식 웹사이트](https://hansaem.gwe.hs.kr/main.do) |
 |                          실습 전공 교과목 : 중학교 정보                      |                          실습 전공 교과목 : 고등학교 프로그래밍                       |
 
 ## Learning Tool At MinRak Middle School Class developed by Sohyun.T🔧
@@ -39,12 +40,14 @@
 
 <img width="300px" src= "https://github.com/osohyun0224/Uijeongbu_MinRakMiddleSchool_Teaching/assets/53892427/58cdb909-aab4-4cfc-aba9-3b30036efc13" />
 <br/>
-https://drive.google.com/file/d/1TL8nQN2oG7jhHzW-m7KOdqtCDFWLrroK/view?usp=drive_link
+
+[연구수업 지도안 확인하기](https://drive.google.com/file/d/1JOP_cWfC54F10mj7jiW11vQFLlADieHm/view?usp=drive_link)
 
 #### 연구수업 PPT 🎞️
 <img width="600px" src="https://github.com/osohyun0224/Uijeongbu_MinRakMiddleSchool_Teaching/assets/53892427/87e7be38-67af-4445-9319-d5f6fe5382d3" />
 <br/>
-https://drive.google.com/file/d/1TL4qQEoQ9Q2XwG9f_otkz_TuzRU0sFWz/view?usp=drive_link
+
+[연구수업 PPT 확인하기](https://drive.google.com/file/d/1TL4qQEoQ9Q2XwG9f_otkz_TuzRU0sFWz/view?usp=drive_link)
 
 #### 연구수업 진행 사진 📷
 <img width="400px" src="https://github.com/osohyun0224/Uijeongbu_MinRakMiddleSchool_Teaching/assets/53892427/a369c51e-584a-47d0-960f-82dd15a93a9f" />
