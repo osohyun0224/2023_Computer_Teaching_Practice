@@ -2,7 +2,7 @@
 2023-1 경기 의정부시 민락중학교와 강원 춘천시 한샘고등학교에서 진행한 
 <br/> 정보, 컴퓨터교과 교생실습 2023.05.01 ~ 2023.05.26 동안의 실습 기록입니다.
 
-## Trainee Teacher 👩🏻‍🏫
+## 👩🏻‍🏫 Trainee Teacher 👩🏻‍🏫
 
 |                                      오소현                                      | 
 | :------------------------------------------------------------------------------: |
@@ -10,25 +10,27 @@
 |                  [@osohyun0224](https://github.com/osohyun0224)                  |
 |                          한림대학교 빅데이터전공 20학번 3학년                       |
 
-## Training School 🏫
+## 🏫 Training School 🏫
 |                                   경기 의정부시  민락중학교 (공립)                                 |                   강원 춘천시 한샘고등학교 (공립)                                 |
 | :------------------------------------------------------------------------------: | :------------------------------------------------------------------------------: |
 | <img width="160px" src="https://github.com/osohyun0224/Uijeongbu_MinRakMiddleSchool_Teaching/assets/53892427/3fba010e-6c42-4881-a1eb-021ddc610874" /> | <img width="160px" src="https://i.namu.wiki/i/FiEoJyqT0OyG2KUcMIORl7Nvqn_G7RucEXUXeVA5FXFYJxWLKmX5DlrCABKhk4O9OoqcqdC6k0a0HY0-UFFfTg.webp" /> |
 |                  2023.05.01 ~ 2023. 05. 12               |                  2023.05.15 ~ 2023.05.26                  |
 | [민락중학교 공식 웹사이트](https://minrak-m.goeujb.kr/minrak-m/main.do)|   [한샘고등학교 공식 웹사이트](https://hansaem.gwe.hs.kr/main.do) |
 |                          실습 전공 교과목 : 중학교 정보                      |                          실습 전공 교과목 : 고등학교 프로그래밍                       |
+## 🏆Awards 🏆
+🏆 2023학년도 한림대학교 우수 교생실습 **켈러상** 수상 🏆
 
-## Learning Tool At MinRak Middle School Class developed by Sohyun.T🔧
+## 🔧Learning Tool At Millak Middle School Class developed by Sohyun.T🔧
 #### 정보 수업 복습장 웹앱 
 <h5> ✨ 웹앱 시연 영상 ✨ </h5>
 <p align="left">
   <img width="600px" src="https://user-images.githubusercontent.com/53892427/235123276-e4772bcf-aaca-4b8b-8fde-0b7611f1eeda.gif"> </p>
 
-##### GIT REPO LINK🗒️
+##### 🗒️ GIT REPO LINK🗒️
 [레포지토리 바로 가기](https://github.com/osohyun0224/React_Firebase_StudyNote_withMinRak)
 
 
-## Demonstration Class 🗒️
+## 🗒️Demonstration Class 🗒️
 #### 수업 진행 일시/ 장소/ 대상 안내
 |                               일시                                |                   2023.05.22.(월) 1교시              |       
 | :------------------------------------------------------------------------------: | :------------------------------------------------------------------------------: |
@@ -36,27 +38,27 @@
 |                  대상             |                  한샘고등학교 1학년 7반|
 |                 교육실습생            |                오소현  ( 한림대학교 컴퓨터공학과)                   |
 
-#### 연구수업 지도안 PDF 🗂️
+#### 🗂️ 연구수업 지도안 PDF 🗂️
 
 <img width="300px" src= "https://github.com/osohyun0224/Uijeongbu_MinRakMiddleSchool_Teaching/assets/53892427/58cdb909-aab4-4cfc-aba9-3b30036efc13" />
 <br/>
 
 [연구수업 지도안 확인하기](https://drive.google.com/file/d/1JOP_cWfC54F10mj7jiW11vQFLlADieHm/view?usp=drive_link)
 
-#### 연구수업 PPT 🎞️
+#### 🎞️ 연구수업 PPT 🎞️
 <img width="600px" src="https://github.com/osohyun0224/Uijeongbu_MinRakMiddleSchool_Teaching/assets/53892427/87e7be38-67af-4445-9319-d5f6fe5382d3" />
 <br/>
 
 [연구수업 PPT 확인하기](https://drive.google.com/file/d/1TL4qQEoQ9Q2XwG9f_otkz_TuzRU0sFWz/view?usp=drive_link)
 
-#### 연구수업 진행 사진 📷
+#### 📷 연구수업 진행 사진 📷
 <img width="400px" src="https://github.com/osohyun0224/Uijeongbu_MinRakMiddleSchool_Teaching/assets/53892427/a369c51e-584a-47d0-960f-82dd15a93a9f" />
 
-## With Students 👥
+## 👥 With Students 👥
 <img width="400px" src="https://github.com/osohyun0224/Uijeongbu_MinRakMiddleSchool_Teaching/assets/53892427/8b77dd81-ebf4-45be-a1af-0ac5c21d3fb8" />
 <img width="400px" src="https://github.com/osohyun0224/Uijeongbu_MinRakMiddleSchool_Teaching/assets/53892427/0de17b19-d067-427d-8fc5-2a42d49a50e9" />
 
-## Review ✍🏻
+## ✍🏻 Review ✍🏻
 
 <b> " 힘들게 버텨온 교직 생활 2년이 아깝지 않았던 소중한 시간" </b>
 
