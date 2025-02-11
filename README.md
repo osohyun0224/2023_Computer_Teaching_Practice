@@ -11,12 +11,12 @@
 |                          한림대학교 빅데이터전공 20학번 3학년                       |
 
 ## 🏫 Training School 🏫
-|                                   경기 의정부시  민락중학교 (공립)                                 |                   강원 춘천시 한샘고등학교 (공립)                                 |
-| :------------------------------------------------------------------------------: | :------------------------------------------------------------------------------: |
-| <img width="160px" src="https://github.com/osohyun0224/Uijeongbu_MinRakMiddleSchool_Teaching/assets/53892427/3fba010e-6c42-4881-a1eb-021ddc610874" /> | <img width="160px" src="https://i.namu.wiki/i/FiEoJyqT0OyG2KUcMIORl7Nvqn_G7RucEXUXeVA5FXFYJxWLKmX5DlrCABKhk4O9OoqcqdC6k0a0HY0-UFFfTg.webp" /> |
-|                  2023.05.01 ~ 2023. 05. 12               |                  2023.05.15 ~ 2023.05.26                  |
-| [민락중학교 공식 웹사이트](https://minrak-m.goeujb.kr/minrak-m/main.do)|   [한샘고등학교 공식 웹사이트](https://hansaem.gwe.hs.kr/main.do) |
-|                          실습 전공 교과목 : 중학교 정보                      |                          실습 전공 교과목 : 고등학교 프로그래밍                       |
+ |                   강원 춘천시 한샘고등학교 (공립)                                 |
+|  :------------------------------------------------------------------------------: |
+| <img width="160px" src="https://i.namu.wiki/i/FiEoJyqT0OyG2KUcMIORl7Nvqn_G7RucEXUXeVA5FXFYJxWLKmX5DlrCABKhk4O9OoqcqdC6k0a0HY0-UFFfTg.webp" /> |
+|                  2023.05.01 ~ 2023.05.26                  |
+| [한샘고등학교 공식 웹사이트](https://hansaem.gwe.hs.kr/main.do) |
+|              실습 전공 교과목 : 고등학교 프로그래밍          |
 ## 🏆Awards 🏆
 🏆 2023학년도 한림대학교 우수 교생실습 **켈러상** 수상 🏆
 
